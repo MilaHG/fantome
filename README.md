@@ -41,7 +41,7 @@ Le texte barré utilise deux ~~tildes~~ (alt gr + 2)
 
 ---
 
-Une ligne de séparation avec 3 tirets (la balise <hr/> en HTML)
+Une ligne de séparation avec 3 tirets (la balise `<hr/>` en HTML)
 
 
 
